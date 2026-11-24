@@ -1,0 +1,10 @@
+essai,A_neurones,B_lr,C_activation,D_alpha
+1,10,0.001,logistic,0.0001
+2,10,0.01,tanh,0.01
+3,10,0.05,relu,0.1
+4,15,0.001,tanh,0.1
+5,15,0.01,relu,0.0001
+6,15,0.05,logistic,0.01
+7,20,0.001,relu,0.01
+8,20,0.01,logistic,0.1
+9,20,0.05,tanh,0.0001
